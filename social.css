@@ -1,0 +1,57 @@
+body {  
+ background-color: #666699; 
+ }
+
+ th {
+ width: 5000px ;
+ height: 200px;
+ border: 8px dotted white ;
+ font-family: Roboto ;
+ font-size : 80px ;
+ margin: 5xp;
+ }
+ 
+ h1{
+ font-family: Roboto ;
+	font-size : 50px ;
+	}
+	
+h2 { font-family: Roboto;
+	font-size : 50px ;
+}
+
+
+h3 {font-family: Roboto;
+	font-size : 30px ;
+	}
+	
+
+.grid { border: 10px #4D7351 solid;
+  width: 50%;
+  height: 200px;
+ }
+ 
+ .box  {  background-color: #4D7351;
+  color: black;
+    display: grid;
+  border-radius: 5px;
+  border: 8px white dotted;
+ font-family: Roboto ;
+ font-size : 25px ;
+ grid-template-column: 30% 30%;
+  grid-template-row: 30% 30%;
+ }
+
+ img { height: 700px; 
+ width: 700px; }
+ 
+
+a {
+  color: #000000;
+}
+a:visited {
+  color: #000000;
+}
+a:hover, a:active, a:focus {
+  color:#000000;
+}
